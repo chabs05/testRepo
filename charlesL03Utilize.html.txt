@@ -4,17 +4,8 @@
 	<title> L03: Utilize Code Versioning Tools
 	</title>
 </head>
-
+<p> Charles Adrian Godoy </p>
 <body>
-
-	<p> Charles Adrian Godoy </p>
-	<b> Charles Adrian Godoy </b>
-	<i> Charles Adrian Godoy </i>
-	<u> Charles Adrian Godoy </u>
-	<strike> Charles Adrian Godoy </strike>
-	<tt> Charles Adrian Godoy </tt>
-	<sup> Charles Adrian Godoy </sup>
-	<sub> Charles Adrian Godoy </sub>
 
 </body>
 
